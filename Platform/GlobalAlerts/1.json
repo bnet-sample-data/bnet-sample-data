@@ -1,0 +1,17 @@
+{
+  "Response": [
+    {
+      "AlertKey": "D2-PatchingWithKick",
+      "AlertHtml": "Destiny 2 will receive an update today. Players will be required to log in to Destiny 2 again after installing the update. Please stay tuned to @BungieHelp for updates.",
+      "AlertTimestamp": "2020-08-20T15:09:16Z",
+      "AlertLink": "https://twitter.com/BungieHelp",
+      "AlertLevel": 3,
+      "AlertType": 0
+    }
+  ],
+  "ErrorCode": 1,
+  "ThrottleSeconds": 0,
+  "ErrorStatus": "Success",
+  "Message": "Ok",
+  "MessageData": {}
+}
